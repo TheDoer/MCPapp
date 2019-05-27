@@ -17,7 +17,6 @@ import zw.co.munaticommunications.db.DBUser;
 import zw.co.munaticommunications.model.LoginBody;
 import zw.co.munaticommunications.model.LoginResponse;
 import zw.co.munaticommunications.model.User;
-import zw.co.munaticommunications.util.UnsafeOkHttpClient;
 
 import android.app.ProgressDialog;
 import android.util.Log;

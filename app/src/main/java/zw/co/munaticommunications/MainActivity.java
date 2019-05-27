@@ -32,7 +32,6 @@ import zw.co.munaticommunications.client.AppMessagesClient;
 import zw.co.munaticommunications.model.Message;
 import zw.co.munaticommunications.model.MessagesResponse;
 import zw.co.munaticommunications.util.MessagesRecyclerviewAdapter;
-import zw.co.munaticommunications.util.UnsafeOkHttpClient;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<List<Message>> {
     String token, name;
