@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Munati Communications</string>
+    <string name="website">No account yet? Create one</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="sample_message">1 I guess the easiest way to achieve this kind of layout in your message to be sure there is enough space on the right to not cover the time</string>
+    <string name="sample_date">01/01/2019 07:00am</string>
+    <string name="no_messages">Loading New Messages</string>
+</resources>
